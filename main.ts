@@ -8,7 +8,7 @@ load dependency
 
 
 //% color="#C814B8" weight=25 icon="\uf1d4"
-namespace cbit_显示类 {
+namespace 37bit_显示类 {
     
     export enum enColor {
 
@@ -161,7 +161,7 @@ namespace cbit_显示类 {
  ****************************************************************************************************************************************/
 
 //% color="#87CEEB" weight=24 icon="\uf1b6"
-namespace cbit_传感器类 {
+namespace 37bit_传感器类 {
 
     export enum enVoice {
         //% blockId="Voice" block="有声音"
@@ -259,7 +259,7 @@ namespace cbit_传感器类 {
  ****************************************************************************************************************************************/
 
 //% color="#808080" weight=23 icon="\uf11c"
-namespace cbit_输入类 {
+namespace 37bit_输入类 {
 
     export enum enRocker {
         //% blockId="Nostate" block="无"
