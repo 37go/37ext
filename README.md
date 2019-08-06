@@ -1,7 +1,7 @@
 # cBit
 
-创乐博 基于micro:bit 控制器的cBit机器人库 （湖南智宇科教设备有限公司）
-
+37梦想 小学基于micro:bit 控制器的机器人库 （37go工作室）
+使用于创乐博microbit机器人小车机设备
 ## License
 
 MIT
