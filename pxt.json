@@ -1,7 +1,7 @@
 {
     "name": "37Bit",
     "version": "1.1.0",
-    "description": "Extension for 37go micro:bit",
+    "description": "37go micro:bit创乐博机器人小车",
     "license": "MIT",
     "dependencies": {
         "core": "*",
