@@ -1,5 +1,7 @@
 {
 
+  "cbit_自定义类.Buzzer|block": "有源蜂鸣器|引脚 %pin|值 %value",
+  
   "cbit_显示类.LED1|block": "LED灯|引脚 %pin|状态 %value",
   "cbit_显示类.LED2|block": "LED灯|引脚 %pin|亮度 %value",
   "cbit_显示类.BreathLED|block": "呼吸灯|引脚 %pin",
